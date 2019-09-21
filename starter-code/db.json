@@ -1,0 +1,123 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Han Solo",
+      "occupation": "Smuggler",
+      "weapon": "Blaster Pistol",
+      "cartoon": true
+    },
+    {
+      "id": 2,
+      "name": "Luke Skywalker",
+      "occupation": "Jedi Knight",
+      "weapon": "Lightsaber",
+      "cartoon": false
+    },
+    {
+      "id": 3,
+      "name": "Sponge Bob",
+      "occupation": "Lives under the sea",
+      "weapon": "Crabby Patty",
+      "cartoon": true
+    },
+    {
+      "name": "de",
+      "occupation": "dew",
+      "weapon": "dwe",
+      "cartoon": false,
+      "id": 4
+    },
+    {
+      "name": "o",
+      "occupation": "e3",
+      "weapon": "54",
+      "cartoon": true,
+      "id": 5
+    },
+    {
+      "name": "o",
+      "occupation": "e3",
+      "weapon": "54",
+      "cartoon": true,
+      "id": 6
+    },
+    {
+      "name": "o",
+      "occupation": "e3",
+      "weapon": "54",
+      "cartoon": true,
+      "id": 7
+    },
+    {
+      "name": "tobias",
+      "occupation": "doguito",
+      "weapon": "teeth",
+      "cartoon": false,
+      "id": 8
+    },
+    {
+      "name": "ti",
+      "occupation": "de",
+      "weapon": "dew",
+      "cartoon": false,
+      "id": 9
+    },
+    {
+      "name": "de",
+      "occupation": "fe",
+      "weapon": "fwe",
+      "cartoon": false,
+      "id": 10
+    },
+    {
+      "name": "dew",
+      "occupation": "fwe",
+      "weapon": "wfr",
+      "cartoon": false,
+      "id": 11
+    },
+    {
+      "name": "tadeu",
+      "occupation": "dweg",
+      "weapon": "sf",
+      "cartoon": false,
+      "id": 12
+    },
+    {
+      "name": "jamerson",
+      "occupation": "it",
+      "weapon": "da",
+      "cartoon": true,
+      "id": 13
+    },
+    {
+      "name": "rita",
+      "occupation": "mother",
+      "weapon": "luck",
+      "cartoon": true,
+      "id": 14
+    },
+    {
+      "name": "amanda",
+      "occupation": "sister",
+      "weapon": "angry",
+      "cartoon": true,
+      "id": 15
+    },
+    {
+      "name": "nara",
+      "occupation": "princess",
+      "weapon": "love",
+      "cartoon": false,
+      "id": 16
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "cartoon": false,
+      "id": 17
+    }
+  ]
+}
